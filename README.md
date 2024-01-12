@@ -1,5 +1,5 @@
 # Description
-A predictive model that can forecast the likelihood of specific crimes occurring in designated locations, providing residents with proactive insights to enhance their safety
+A classification model built in python that can forecast the likelihood of specific crimes occurring in designated locations to individuals, providing residents with proactive insights to enhance their safety
 
 # Methodology
 The project methodology employs machine learning techniques to analyze patterns within the compiled crime and weather datasets, training a model to identify and classify potential crimes. This process involves cleaning the data, selecting features, and applying algorithms to predict the likelihood of different types of crimes occurring
