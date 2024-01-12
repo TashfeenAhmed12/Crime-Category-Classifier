@@ -20,7 +20,7 @@ The objective of this project is to construct and evaluate various machine learn
 -Adopting dimensionality reduction strategies like Principal Component Analysis (PCA) to concentrate on the most informative features and improve model efficiency
 -Comparing the effectiveness of the chosen models, focusing on metrics such as accuracy, precision, and recall to identify the most accurate model for crime type prediction
 
-#Results
+# Results
 The Random Forest model outperformed other models with the highest accuracy, reaching 57%. This model exhibited robustness across various metrics, achieving strong precision, recall, and F1-Score. These high scores indicate that the model was effective in minimizing both false positives and negatives, crucial for reliable crime type classification
 
 
