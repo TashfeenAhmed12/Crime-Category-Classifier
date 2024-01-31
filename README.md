@@ -14,11 +14,11 @@ Weather Data: https://www.visualcrossing.com/weather/weather-data-services
 # Objective
 The objective of this project is to construct and evaluate various machine learning models capable of classifying and predicting the types of crimes occurring in Los Angeles, based on weather patterns and historical crime data. The classification models to be employed and evaluated for their predictive accuracy include the Decision Tree, Random Forest, ANN and XGBoost algorithms In pursuing this aim, the project entailed the following key steps:
 
-*Conducting a thorough exploratory data analysis to uncover underlying patterns and insights within the crime and weather datasets*
-*Implementing data preprocessing techniques including data cleaning, categorical variable conversion, and handling missing values to refine the dataset for modeling*
-*Employing feature selection methods such as Lasso regression to pinpoint the most impactful predictors for the classification models*
-*Adopting dimensionality reduction strategies like Principal Component Analysis (PCA) to concentrate on the most informative features and improve model efficiency*
-*Comparing the effectiveness of the chosen models, focusing on metrics such as accuracy, precision, and recall to identify the most accurate model for crime type prediction*
+* Conducting a thorough exploratory data analysis to uncover underlying patterns and insights within the crime and weather datasets
+* Implementing data preprocessing techniques including data cleaning, categorical variable conversion, and handling missing values to refine the dataset for modeling 
+* Employing feature selection methods such as Lasso regression to pinpoint the most impactful predictors for the classification models
+* Adopting dimensionality reduction strategies like Principal Component Analysis (PCA) to concentrate on the most informative features and improve model efficiency
+* Comparing the effectiveness of the chosen models, focusing on metrics such as accuracy, precision, and recall to identify the most accurate model for crime type prediction*
 
 # Steps taken to build the models
 * Data Exploration
